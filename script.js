@@ -37,6 +37,7 @@ async function main() {
         ">>> Cleaning Up Your Phone ",
         ">>> Hacked Your Phone ",
         "Done",
+        "☠☠☠",
     ]
     for (const item of text) {
         await addItem(item)
